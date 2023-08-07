@@ -1,0 +1,6 @@
+bases:
+  - ../../base
+images:
+  - name: demo-frontend
+    newName: docker.io/kevinciz/demo-frontend:main
+    newTag: main
